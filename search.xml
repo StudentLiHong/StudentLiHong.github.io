@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>安卓笔记（2022-11-28）</title>
+      <link href="/2022/11/28/%E5%AE%89%E5%8D%93%E7%AC%94%E8%AE%B0%EF%BC%882022-11-28%EF%BC%89/"/>
+      <url>/2022/11/28/%E5%AE%89%E5%8D%93%E7%AC%94%E8%AE%B0%EF%BC%882022-11-28%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p>（本网站正在学习搭建，当前页面仅供学习）</p><font  color="black"><strong>内容概述&#xff1a;</strong></font><br/><font color="black"><strong>1.ListView的点击事件</strong></font><br /><font color="black"><strong>2.RecyclerView的基本用法</strong></font><br /><h2>ListView的点击事件</h2><font color="black"><strong>步骤&#xff1a;</strong></font><br /><font color="black"><strong>1.使用setOnClickListener()方法为ListView注册一个监听器。</strong></font><br /><img src="/picture/Android_work/2022/11/28/no1.png" style="margin: 0px auto;border: solid 1px rgba(0, 162, 255, 0.46);"><font color="black"><strong>2.重写监听器的onItemClick()方法，当用户点击任何一个ListView的子类都会回调onItemClic()方法。</strong></font><br /><img src="/picture/Android_work/2022/11/28/no2.png" style="margin: 0px auto;border: solid 1px rgba(0, 162, 255, 0.46);"><p>在这个方法中，安卓系统可以通过position参数判断出用户点击的是哪一个子项，获取到相应的水果，并通过Toast将水果的名字显示出来</p><img src="/picture/Android_work/2022/11/28/no3.png" style="margin: 0px auto;border: solid 1px rgba(0, 162, 255, 0.46);"><h2>RecyclerView的基本用法</h2><font color="black"><strong>步骤&#xff1a;</strong></font><br /><font color="black"><strong></strong></font><br/><img src="/picture/Android_work/2022/11/28/.png" style="margin: 0px auto;border: solid 1px rgba(0, 162, 255, 0.46);"><font color="black"><strong></strong></font><br/><img src="/picture/Android_work/2022/11/28/.png" style="margin: 0px auto;border: solid 1px rgba(0, 162, 255, 0.46);">]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一篇文章</title>
       <link href="/2022/11/26/2022-11-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2022/11/26/2022-11-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
