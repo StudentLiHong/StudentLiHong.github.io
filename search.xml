@@ -21,7 +21,7 @@
       <link href="/2022/11/26/2022-11-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2022/11/26/2022-11-25-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2><script>console.log(document.documentElement);var p =document.getElementsByTagName("div");for (var n = 0;n<p.length;n++){var h = p[n];for (var i=0;i<h.attributes.length;i++){    console.log((n+1)+h.attributes[i]);}}</script>]]></content>
       
       
       
